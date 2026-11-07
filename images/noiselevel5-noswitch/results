@@ -1,0 +1,14 @@
+mean across seeds     cont/bef    cont/noi    cont/aft    nois/bef    nois/noi    nois/aft    
+v_rate_bpm            75.0        75.0        75.0        75.0        92.8        74.9        
+av_sync_pct           100.0       100.0       100.0       100.0       36.1        99.3        
+vvir_pct              0.0         0.0         0.0         0.0         0.0         0.0         
+false_am_pct          0.0         0.0         0.0         0.0         82.7        0.0         
+escape_pct            0.0         0.0         0.0         0.0         14.0        1.0         
+atria_in_systole_pct  0.0         0.0         0.0         0.0         39.0        0.7         
+co_L_min              5.0         5.0         5.0         5.0         4.7         5.0         
+map                   91.5        91.5        91.5        91.6        86.8        91.4        
+map_min               90.5        90.1        90.2        90.5        79.8        79.7        
+mlap                  6.5         6.5         6.5         6.5         6.3         6.5         
+peak_lap_max          11.0        11.0        11.0        11.0        20.9        15.1        
+peak_rap_max          4.6         4.6         4.6         4.7         9.8         6.6         
+pv_back_ml            6.6         6.6         6.6         6.6         8.5         6.7 
